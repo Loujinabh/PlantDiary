@@ -32,7 +32,6 @@
                 android:fontFamily="@font/quicksand_light"
                 android:hint="Username"
                 android:padding="8dp"
-                android:password="false"
                 android:textColor="@color/black"
                 android:textColorHighlight="@color/cardview_dark_background" />
 
